@@ -9,17 +9,17 @@ module.exports = {
   // },
 
   development: {
-    database: 'books',
+    database: 'sjfxxizz',
     username: 'sjfxxizz',
-    password: 'wNwuUDSHbRhNO7M3PGfpdb7pF3sy1KAS',
+    password: 'VblUNIIWx_appru0diB-5ClEyVqoX7Po',
     host: 'arjuna.db.elephantsql.com',
     dialect: 'postgres'
   },
 
   test: {
-    database: 'books',
+    database: 'sjfxxizz',
     username: 'sjfxxizz',
-    password: 'wNwuUDSHbRhNO7M3PGfpdb7pF3sy1KAS',
+    password: 'VblUNIIWx_appru0diB-5ClEyVqoX7Po',
     host: 'arjuna.db.elephantsql.com',
     dialect: 'postgres'
   },
